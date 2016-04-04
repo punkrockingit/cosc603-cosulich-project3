@@ -49,7 +49,7 @@ public class VendingMachine {
 	protected double balance;
 
 	// Array items in the vending machine
-	private VendingMachineItem[] itemArray;
+	protected VendingMachineItem[] itemArray;
 
 	/**
 	 * Default constructor for the vending machine. It sets all the entries in
